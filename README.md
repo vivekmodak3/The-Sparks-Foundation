@@ -10,8 +10,11 @@ Their vision statement is: A world of enabled and connected little minds, buildi
 <pThere will be simple donate button on homepage.
 <p>Host the website on github.io or any other web hosting websites.</p>
 
+# HOME PAGE
 
+![home-page2](https://user-images.githubusercontent.com/91311855/146755916-be2c33c8-c3cd-41f2-a727-ffa9c2c91fd8.png)
 
+# ABOUT SECTION
 
 ![about](https://user-images.githubusercontent.com/91311855/146755654-bdc46767-b5ea-495d-b9bd-59943b7e652e.png)
 
