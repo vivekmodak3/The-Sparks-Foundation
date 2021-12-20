@@ -10,6 +10,15 @@ Their vision statement is: A world of enabled and connected little minds, buildi
 <pThere will be simple donate button on homepage.
 <p>Host the website on github.io or any other web hosting websites.</p>
 
+
+## 1. Homepage
+![Homepage](The-Sparks-Foundation/screenshots/1.png)
+## 2. Payment Page
+![Payment Details](The-Sparks-Foundation/screenshots/2.png)
+## 3. Login Details
+![Login Details](The-Sparks-Foundation/screenshots/3.png)
+
+
 <p align="center">
   <b><i>Let's connect! Find me on the web.</i></b>
 
