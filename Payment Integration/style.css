@@ -1,0 +1,199 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: cursive, sans-serif;
+  scroll-behavior: smooth;
+  user-select: none;
+}
+
+html{
+  height: 100%;
+    scroll-behavior: smooth;
+}
+
+.container {
+  height: 100vh;
+  background-color: #084f8e;
+  background-image: url(https://static.typingclub.com/m/tpmedia/img/sky2.png),
+    linear-gradient(0deg, #084f8e, #083466 80%);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+.container .top {
+  padding: 18px 100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.container .top h1 {
+  color: #fff;
+  font-size: 30px;
+}
+.container .top ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.container .top ul li {
+  margin: 0 15px;
+  position: relative;
+}
+.container .top ul li a {
+  color: #eee;
+  text-decoration: none;
+  font-size: 22px;
+  position: relative;
+  overflow: visible;
+}
+.container .top ul li a:hover,
+.container .top ul li a.active {
+  color: #bfdefa;
+}
+.container .body {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+}
+.container .body > div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+}
+@media (max-width: 800px) {
+  .container .body {
+    display: flex;
+    flex-direction: column;
+  }
+  .container .body > div {
+    display: flex;
+    width: 100%;
+    height: 50%;
+  }
+  .container .top ul {
+    display: none;
+  }
+}
+.container .body .img img {
+  width: 200px;
+  height: 200px;
+  box-shadow: 0 0 50px rgb(223, 238, 245);
+  border-radius: 50%;
+}
+.container .body .text {
+  padding: 30px;
+  justify-content: left;
+}
+.container .body .text p {
+  font-size: 170%;
+  color: #eee;
+}
+.container .body .text a {
+  color: #083466;
+  text-decoration: none;
+  background-color: #fff;
+  margin: 15px 0;
+  padding: 5px 20px;
+  font-size: x-large;
+  border-radius: 5px;
+  transition: 0.5s;
+}
+.container .body .text a:hover {
+  box-shadow: 0 0 30px rgb(223, 238, 245);
+}
+.container .bottom {
+  min-height: 150px;
+  position: relative;
+}
+@keyframes move {
+  from {
+    background-position-x: 0;
+  }
+  to {
+    background-position-x: 500px;
+  }
+}
+.container .bottom div {
+  position: absolute;
+  background-position-y: bottom;
+  background-repeat: repeat-x;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+}
+.container .bottom .bg1 {
+  background-image: url("https://static.typingclub.com/m/tpmedia/img/clouds3.png");
+  z-index: 1;
+  transform: translateY(-15px);
+  animation: move 15s infinite linear reverse;
+  -webkit-animation: move 15s infinite linear reverse;
+}
+.container .bottom .bg3 {
+  background-image: url("https://static.typingclub.com/m/tpmedia/img/clouds1.png");
+  z-index: 2;
+}
+.container .bottom .bg2 {
+  background-image: url("https://static.typingclub.com/m/tpmedia/img/clouds2.png");
+  z-index: 3;
+  transform: translateY(15px);
+  animation: move 15s infinite linear;
+  -webkit-animation: move 15s infinite linear;
+}
+
+
+.next{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+}
+
+.image{
+  width:100%;
+  height:200px;
+  border-radius:10px;
+  background-size:cover;
+  background-position:center center;
+}
+
+
+.produkt img {
+  width: 80%;
+  max-width: 240px;
+  padding: 0px;
+}
+
+
+.footer-copyright {
+    background-color: #027b9a;
+    color: #fff;
+    padding: 15px 30px;
+  text-align: center;
+}
+
+.footer-copyright-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1200px;
+}
+
+.footer-copyright-text {
+  color: #fff;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 18px;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.footer-copyright-link {
+    color: #fff;
+    text-decoration: none;
+}
+
+
