@@ -12,11 +12,11 @@ Their vision statement is: A world of enabled and connected little minds, buildi
 
 
 ## 1. Homepage
-![Homepage](The-Sparks-Foundation/screenshots/1.png)
+![Homepage](Payment Integration/images/1.png)
 ## 2. Payment Page
-![Payment Details](The-Sparks-Foundation/screenshots/2.png)
+![Payment Details](Payment Integration/images/2.png)
 ## 3. Login Details
-![Login Details](The-Sparks-Foundation/screenshots/3.png)
+![Login Details](Payment Integration/images/3.png)
 
 
 <p align="center">
