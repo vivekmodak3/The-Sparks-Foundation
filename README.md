@@ -6,8 +6,8 @@ Their vision statement is: A world of enabled and connected little minds, buildi
 
 # PAYMENT GATEWAY INTEGRATION
 # PROBLEM STATEMENT
-<p>Create simple website where simple paymewnt is integrated.</p>
-<pThere will be simple donate button on homepage.
+<p>Create simple website where simple payment is integrated.</p>
+<p>There will be simple donate button on homepage.
 <p>Host the website on github.io or any other web hosting websites.</p>
 
 # HOME PAGE
