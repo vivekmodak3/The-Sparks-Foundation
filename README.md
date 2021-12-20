@@ -11,7 +11,7 @@ Their vision statement is: A world of enabled and connected little minds, buildi
 <p>Host the website on github.io or any other web hosting websites.</p>
 
 
-![GitHub Logo](/images/github-logo.png)
+![About](/images/about.png)
 
 
 <p align="center">
