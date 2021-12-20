@@ -13,10 +13,12 @@ Their vision statement is: A world of enabled and connected little minds, buildi
 
 
 
+![about](https://user-images.githubusercontent.com/91311855/146755654-bdc46767-b5ea-495d-b9bd-59943b7e652e.png)
 
-<p align="center">![about](https://user-images.githubusercontent.com/91311855/146755424-e71907ed-b3e8-4552-aa1e-f1f3cdfc932e.png)
+
 
   <b><i>Let's connect! Find me on the web.</i></b>
+
 
 
 [<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">][gmail] 
