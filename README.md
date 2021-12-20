@@ -14,7 +14,8 @@ Their vision statement is: A world of enabled and connected little minds, buildi
 
 
 
-<p align="center">
+<p align="center">![about](https://user-images.githubusercontent.com/91311855/146755424-e71907ed-b3e8-4552-aa1e-f1f3cdfc932e.png)
+
   <b><i>Let's connect! Find me on the web.</i></b>
 
 
