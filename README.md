@@ -11,12 +11,7 @@ Their vision statement is: A world of enabled and connected little minds, buildi
 <p>Host the website on github.io or any other web hosting websites.</p>
 
 
-## 1. Homepage
-! [Homepage] (Payment Integration/images/home-page2.png)
-## 2. Payment Page
-![Payment Details](Payment Integration/images/2.png)
-## 3. Login Details
-![Login Details](Payment Integration/images/3.png)
+
 
 
 <p align="center">
