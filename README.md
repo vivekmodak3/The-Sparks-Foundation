@@ -1,8 +1,7 @@
 # The-Sparks-Foundation
 <img height="30" src="https://img.shields.io/badge/The Sparks Foundation-black.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue" />
-<br><br>
+<br>
 The sparks foundation is working to bring parity in education, making sure children have equal opportunity at success, irrespective of the financial background.
-
 Their vision statement is: A world of enabled and connected little minds, building future.
 
 # PAYMENT GATEWAY INTEGRATION
