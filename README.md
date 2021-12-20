@@ -12,7 +12,7 @@ Their vision statement is: A world of enabled and connected little minds, buildi
 
 
 ## 1. Homepage
-![Homepage](Payment Integration/images/home-page2.png)
+! [Homepage] (Payment Integration/images/home-page2.png)
 ## 2. Payment Page
 ![Payment Details](Payment Integration/images/2.png)
 ## 3. Login Details
